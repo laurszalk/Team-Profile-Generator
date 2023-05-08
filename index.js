@@ -1,4 +1,4 @@
-const GenerateEmployee = require("./src/generateEmployees");
+const GenerateEmployee = require("./src/generateEmployee");
 
 const generateEmployee = new GenerateEmployee();
 
